@@ -1,0 +1,10 @@
+python-dotenv
+datasets
+huggingface_hub
+streamlit
+PyMuPDF
+transformers
+chromadb
+torch
+nltk
+
